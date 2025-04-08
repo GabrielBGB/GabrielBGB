@@ -18,15 +18,21 @@
 
 ###
 
-<h1 align="center">Olá Sejam bem vindos</h1>
+<h1 align="center">👋 Bem-vindo(a) ao meu GitHub!</h1>
+
+> <p align="center"> "Aprender. Aplicar. Melhorar. Esse é o ciclo que guia meu código."  
+
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="center">👩‍💻  Sobre mim</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- 🎓 Estudante de Back=End — Academia do Programador
+- 🎓 Estudante de Front-End -- Alura 
+- 📚 Estudando atualmente: C#, .NET, HTML.CSS,JS 
+- 💼 Aberto a oportunidades de estágio,nova oportunidade de trabalho, freelance e projetos colaborativos
 
 ###
 
