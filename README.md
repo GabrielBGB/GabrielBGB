@@ -32,7 +32,7 @@
 - 🎓 Estudante de Back=End — Academia do Programador
 - 🎓 Estudante de Front-End -- Alura 
 - 📚 Estudando atualmente: C#, .NET, HTML.CSS,JS 
-- 💼 Aberto á oportunidades de estágio ,nova oportunidade de trabalho, freelancer e projetos colaborativos
+- 💼 Aberto á oportunidades de estágio, trabalho, projetos freelancer e iniciativas colaborativos
 
 ###
 
